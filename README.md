@@ -2,6 +2,12 @@
 
 This repository contains all coursework and project artifacts developed by Team 7 for the ARI2129 module.
 
+- Eytan Attard Vella
+- Julian Grech
+- Julian Galea
+- Gilmor Azzopardi
+- Kai James Azzopardi
+
 ## Contents
 
 - Source code for course assignments and the main project
